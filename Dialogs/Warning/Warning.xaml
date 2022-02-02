@@ -1,0 +1,36 @@
+<Page
+    x:Class="Fluent_Dialogs.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Fluent_Dialogs"
+    xmlns:muxc="using:Microsoft.UI.Xaml.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    muxc:BackdropMaterial.ApplyToRootOrPageBackground="True"
+    Name="Run"
+    Height="175" Width="400"
+    >
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="115"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <FontIcon FontFamily="Segoe Fluent Icons" Glyph="&#xE814;" Margin="25,0,0,0" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="40px" 
+                  Foreground="Yellow"/>
+        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="14px" Margin="30,0,0,0">
+            Warning, you are about to delete 'System32'. <LineBreak/>Are you sure about that?
+        </TextBlock>
+        <Grid Grid.Row="1" Background="{ThemeResource AcrylicInAppFillColorDefaultBrush}">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="125"/>
+                <ColumnDefinition Width="125"/>
+                <ColumnDefinition Width="130"/>
+            </Grid.ColumnDefinitions>
+            <Button Name="OkButton" Margin="0,0,0,0"  Grid.Row="1" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Continue" MinWidth="110" Click="OkButton_Click"/>
+            <Button Grid.Row="1" Grid.Column="3" Style="{StaticResource AccentButtonStyle}" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Cancel" MinWidth="110"/>
+        </Grid>
+    </Grid>
+</Page>
