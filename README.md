@@ -120,7 +120,7 @@ This repository is distributed under the DWCwbNPL License. See `LICENSE` for mor
 [stars-url]: https://github.com/core-hacked/FluentUI-Concepts/stargazers
 [issues-shield]: https://img.shields.io/github/issues/core-hacked/FluentUI-Concepts.svg?colorA=1e1e28&colorB=B1E3AD&style=for-the-badge&logo=starship%20style=for-the-badge
 [issues-url]: https://github.com/core-hacked/FluentUI-Concepts/issues
-[license-shield]: https://img.shields.io/github/license/core-hacked/FluentUI-Concepts.svg?colorA=1e1e28&colorB=F9C096&style=for-the-badge&logo=starship%20style=for-the-badge
+[license-shield]: https://img.shields.io/badge/LICENSE%20-DWCwbNPL-blue?colorA=1e1e28&colorB=F9C096&style=for-the-badge&logo=starship%20style=for-the-badge
 [license-url]: https://github.com/core-hacked/FluentUI-Concepts/blob/master/LICENSE
 [python397test-shield]: https://img.shields.io/badge/UWP%20XAML-C%23%20.NET5-blue?colorA=1e1e28&colorB=B1E3AD&style=for-the-badge&logo=starship%20style=for-the-badge
 [releaselateststable-url]: https://github.com/core-hacked/FluentUI-Concepts/releases/latest
