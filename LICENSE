@@ -1,18 +1,41 @@
-      DO WHATEVER, BUT CREDIT would be NICE PUBLIC LICENSE
-				       (DWCwbNPL)
-                   			Version 1, February 02
+COREHACKED CORPORATION/COMPANY RESTRICTIVE PUBLIC LICENSE
+		       (CHCRPL)
+               	  Version 1, March 27
  
 Copyright (C) 2022 core-hacked (info@corehacked.cf)
 
 Everyone is permitted to copy and distribute verbatim or modified
 copies of this license document, and changing it is allowed as long
-as the name is changed.
+as the name is changed, or made clear that it is not the original license
+document, by including "revision/edit by (Your Name)" after the name.
+
+As for the short-name (CHCRPL) you need to adapt the revision into it,
+for example with: CHCRPL-R/E-(YourName) or other such shortings and changes.
+
+
  
-           DO WHATEVER, BUT CREDIT would be NICE PUBLIC LICENSE (DWCwbNPL)
+COREHACKED CORPORATION/COMPANY RESTRICTIVE PUBLIC LICENSE (CHCRPL)
 
   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
- 0. You can do what you want to.
- 1. Crediting would be nice, but is not required.
 
- ALL CONCEPTS/DESIGNS CAN BE USED HOWEVER YOU WANT TO.
+  Terms and Conditions for personal, non-profit, open-source software including corporations/companies:
+  
+    1. Modification, redestribution, repurposing of the software/designs is fully permitted as long as the software which uses the designs is open-source with or without credit to the original owner (github.com/core-hacked) unless used for harmful, malicious, deceptive or deceiving, and other such purposes.
+    2. The sale of software which includes this exact design is not permitted, unless all profit goes to official charitable causes.
+  
+  Terms and Conditions for corporations/companies or commercial usage:
+  
+    1. Modification, redestribution, repurposing of the software/designs is not permitted unless given permission by the original owner (github.com/core-hacked)
+    2. The sale of software which includes this exact design is not permitted, unless all profit goes to official charitable causes.
+    
+  Exceptions to the above terms and conditions
+    1. Microsoft a.k.a the owner of the FluentUI/UWP Framework is permitted to use these designs without any attribution or open-sourcing, including sales and bundeling it into paid software.
+    2. Personal use cases where no copies are made and/or distributed are permitted, unless used for harmful, malicious, deceptive or deceiving, and other such purposes.
+    
+    
+  WARRANTY
+  
+    This software/designs do not come with any warranty, support or guaranty.
+    The author/owner cannot be held responsible or forced to fix problems, provide guides or support in any way, shape, or form.
+    
