@@ -107,7 +107,7 @@ This repository is distributed under the CHCRPL License. See `LICENSE` for more 
 <!-- CONTACT -->
 ## Contact
 
-[info@corehacked.cf](mailto:info@corehacked.cf)
+[info@corehacked.com](mailto:info@corehacked.com)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
